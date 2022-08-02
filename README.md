@@ -1,7 +1,5 @@
 <h1 align="center">Obol Network testnet başvuru </h1>
 
-### Obol Türkiye Telegram Kanalı: [Obol Türkiye](https://t.me/ObolNetworkTurkish)
-
 ![image](https://user-images.githubusercontent.com/101149671/181920449-8aeb9c05-e068-415a-b42b-38f77f8d206c.png)
 
 <h1 align="center">FORMUN ÖNEMİ YOKTUR </h1>
@@ -10,7 +8,6 @@
 <h1 align="center">Obol kurulu sunucunuzu sıfırlamadayısanız altta vereceğim komutu kullanarak private keyi alabilirsiniz. </h1>
 
 * Private keyi not edin ve kimseyle paylaşmayın.
-* ENR adresinizi [discord kanalı](discord.gg/ruescommunity) #obol-enr-adres odasına enr adresinizi gönderin.
 
 ```
 nano ~/charon-distributed-validator-node/.charon/charon-enr-private-key
@@ -53,12 +50,9 @@ docker run --rm -v "$(pwd):/opt/charon" ghcr.io/obolnetwork/charon:v0.8.1 create
 ## Private key alma:
 
 * Private keyi not edin ve kimseyle paylaşmayın.
-* ENR adresinizi [discord kanalı](discord.gg/ruescommunity) #obol-enr-adres odasına enr adresinizi gönderin.
 
 ```
 nano ~/charon-distributed-validator-node/.charon/charon-enr-private-key
 ```
-
-## SORUN YAŞARSANIZ: https://t.me/ObolNetworkTurkish
 
 
